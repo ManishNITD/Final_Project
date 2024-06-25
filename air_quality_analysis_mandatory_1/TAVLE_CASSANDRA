@@ -1,0 +1,19 @@
+CREATE TABLE tutorialkeyspace.air_quality_data (
+    "Date" TIMESTAMP ,
+    "NO2" DOUBLE,
+    "O3" DOUBLE,
+    "PM10" DOUBLE,
+    "Latitude" DOUBLE,
+    "Longitude" DOUBLE,
+    "station_name" TEXT ,
+    "Wind-Speed (U)" DOUBLE,
+    "Wind-Speed (V)" DOUBLE,
+    "Dewpoint Temp" DOUBLE,
+    "Temp" DOUBLE,
+    "Vegitation (High)" DOUBLE,
+    "Vegitation (Low)" DOUBLE,
+    "Soil Temp" DOUBLE,
+    "Total Percipitation" DOUBLE,
+    "Relative Humidity" DOUBLE,
+    PRIMARY KEY ("Date","station_name")
+  );
