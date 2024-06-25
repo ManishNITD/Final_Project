@@ -1,0 +1,6 @@
+book_id,title,author_id,author_name,genre,publish_date
+b2,Title2,a2,Author2,Non-Fiction,2021-05-20
+b4,Title4,a1,Author1,Fantasy,2019-07-25
+b5,Title5,a2,Author2,Science Fiction,2018-11-05
+b3,Title3,a3,Author3,Mystery,2020-03-15
+b1,Title1,a1,Author1,Fiction,2022-01-01
