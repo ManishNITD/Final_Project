@@ -1,0 +1,3 @@
+cpu_usage_percentage,77.0,2024-06-25T17:29:52.369011Z,server02,ap-south-1
+cpu_usage_percentage,59.0,2024-06-25T17:29:57.385929Z,server01,us-west-2
+cpu_usage_percentage,21.0,2024-06-25T17:30:27.506395Z,server05,us-west-2

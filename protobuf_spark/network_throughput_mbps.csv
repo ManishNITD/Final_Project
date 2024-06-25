@@ -1,0 +1,6 @@
+network_throughput_mbps,498.0,2024-06-25T17:29:27.267625Z,server05,eu-west-1
+network_throughput_mbps,573.0,2024-06-25T17:29:32.285805Z,server01,ap-south-1
+network_throughput_mbps,813.0,2024-06-25T17:29:47.350019Z,server05,us-west-2
+network_throughput_mbps,602.0,2024-06-25T17:30:02.405681Z,server01,ap-south-1
+network_throughput_mbps,520.0,2024-06-25T17:30:12.447280Z,server04,eu-west-1
+network_throughput_mbps,802.0,2024-06-25T17:30:37.547321Z,server02,eu-west-1

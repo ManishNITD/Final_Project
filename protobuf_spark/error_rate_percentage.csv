@@ -1,0 +1,4 @@
+error_rate_percentage,11.0,2024-06-25T17:29:22.246855Z,server03,us-east-1
+error_rate_percentage,78.0,2024-06-25T17:30:07.426826Z,server02,us-east-1
+error_rate_percentage,1.0,2024-06-25T17:30:22.489555Z,server02,eu-central-1
+error_rate_percentage,85.0,2024-06-25T17:30:32.527300Z,server04,us-west-2
